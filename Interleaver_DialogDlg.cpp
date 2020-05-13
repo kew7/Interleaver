@@ -167,7 +167,7 @@ void CInterleaver_DialogDlg::Func_Perem(void) // ‘”Ќ ÷»я перемежени€ в байтовом 
 	UpdateData(TRUE);
 	nString = atoi(_T(m_Num_String));
 	nColumn=atoi(_T(m_Num_Column));
-	if((nString>=2)&&(nString<=256)) // провер€ем диапазон допустимых значений кол-ва строк и столбцов
+	if((nString>=2)&&(nString<=256)) // провер€ем диапазон допустимых значений кол-ва строк и столбцов - 256
 		if((nColumn>=2)&&(nColumn<=256))
 		{
 			FileIn_BYTE.SeekToBegin();	// указатель на начало файла
