@@ -1,5 +1,5 @@
 ================================================================================
-    MICROSOFT FOUNDATION CLASS LIBRARY : Interleaver_Dialog Project Overview
+    MICROSOFT FOUNDATION CLASS LIBRARY : Interleaver_Dialog Project Overview            MS Visual Studio 2019
 ===============================================================================
 
 A simple program that implements bitwise interleaving of the input file (matrix transposition) and writes the result to a file.
