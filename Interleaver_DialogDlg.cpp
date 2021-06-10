@@ -3,7 +3,7 @@
 #include "stdafx.h"
 #include "Interleaver_Dialog.h"
 #include "Interleaver_DialogDlg.h"
-using namespace System;
+//using namespace System;
 
 #ifdef _DEBUG
 #define new DEBUG_NEW
